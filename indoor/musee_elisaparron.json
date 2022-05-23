@@ -11932,7 +11932,7 @@
         {
          "columns":64,
          "firstgid":81636,
-         "image":"..\/src\/assets\/Test outdoor Mao\/Tileset_2048x2048_Mus\u00e9e.png",
+         "image":"..\/src\/assets\/Test outdoor Mao\/MUSEE\/Tileset_2048x2048_Mus\u00e9e.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -11945,13 +11945,13 @@
         {
          "columns":64,
          "firstgid":85732,
-         "image":"..\/src\/assets\/Test outdoor Mao\/Tileset_2048x2048_Festival.png",
+         "image":"..\/src\/assets\/Test outdoor Mao\/MUSEE\/Tileset_2048x2048_Festival.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
          "name":"Tileset_2048x2048_Festival",
          "spacing":0,
-         "tilecount":0,
+         "tilecount":4096,
          "tileheight":32,
          "tilewidth":32
         }],

@@ -640,7 +640,7 @@
          "name":"Floor",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -12414,7 +12414,7 @@
         {
          "columns":64,
          "firstgid":81721,
-         "image":"..\/src\/assets\/Test outdoor Mao\/Tileset_2048x2048_Festival_WASTED.png",
+         "image":"..\/src\/assets\/Test outdoor Mao\/WASTED\/Tileset_2048x2048_Festival.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -12427,7 +12427,7 @@
         {
          "columns":64,
          "firstgid":85817,
-         "image":"..\/src\/assets\/Test outdoor Mao\/Tileset_2048x2048_Festival_WASTED.png",
+         "image":"..\/src\/assets\/Test outdoor Mao\/WASTED\/Tileset_2048x2048_Festival.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
