@@ -614,7 +614,7 @@
          "name":"Floor",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -924,7 +924,7 @@
          "name":"Structure",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -1686,7 +1686,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/vimeo.com\/manage\/videos\/712751258"
+                         "value":"https:\/\/www.youtube.com\/watch?v=0akBpmP9LCg"
                         }]
                 }, 
                 {
