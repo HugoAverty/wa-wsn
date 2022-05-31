@@ -249,6 +249,12 @@
                  "id":1298,
                  "name":"Games",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/gamesnacks.com\/embed\/games\/11-11"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":51,
