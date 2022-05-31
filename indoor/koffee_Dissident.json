@@ -253,7 +253,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"src\/assets\/PDF_PNG\/DISSIDENT\/OPENING_SOON.png"
+                         "value":"src\/assets\/PDF_PNG\/DISSIDENT\/DISSIDENT8.png"
                         }],
                  "type":"tilelayer",
                  "visible":true,
