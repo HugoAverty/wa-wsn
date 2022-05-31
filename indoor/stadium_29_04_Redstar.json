@@ -365,6 +365,12 @@
                  "id":1299,
                  "name":"Jeu foot",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/gamesnacks.com\/embed\/games\/freekickfootball"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":43,
@@ -684,7 +690,7 @@
          "name":"Floor",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
