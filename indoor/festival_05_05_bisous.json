@@ -244,7 +244,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json#entrySalleDesFetes"
+                 "value":"..\/map_29-04.json#entrySalleDesFetes"
                 }],
          "type":"tilelayer",
          "visible":true,

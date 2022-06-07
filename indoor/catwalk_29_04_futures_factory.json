@@ -327,7 +327,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json#entryCat"
+                 "value":"..\/map_29-04.json#entryCat"
                 }],
          "type":"tilelayer",
          "visible":true,

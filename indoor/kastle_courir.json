@@ -183,7 +183,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json#entryKastle"
+                 "value":"..\/map_29-04.json#entryKastle"
                 }],
          "type":"tilelayer",
          "visible":true,

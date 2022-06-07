@@ -240,7 +240,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json#"
+                 "value":"..\/map_29-04.json#entryStadium_29_04_Redstar"
                 }],
          "type":"tilelayer",
          "visible":true,

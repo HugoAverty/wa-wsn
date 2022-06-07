@@ -183,7 +183,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json#entryKoffee"
+                 "value":"..\/map_29-04.json#entryKoffee"
                 }],
          "type":"tilelayer",
          "visible":true,

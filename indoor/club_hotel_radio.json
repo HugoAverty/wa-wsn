@@ -327,7 +327,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json#entryClub"
+                 "value":"..\/map_29-04.json#entryClub"
                 }],
          "type":"tilelayer",
          "visible":true,

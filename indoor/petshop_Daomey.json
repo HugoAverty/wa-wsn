@@ -388,7 +388,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json#"
+                 "value":"..\/map_29-04.json#entryPetshop_Daomey"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -183,7 +183,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json#entryMuseum"
+                 "value":"..\/map_29-04.json#entryMuseum"
                 }],
          "type":"tilelayer",
          "visible":true,
