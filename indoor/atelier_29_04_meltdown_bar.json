@@ -183,7 +183,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json#entryAtelier"
+                 "value":"..\/map_29-04.json#entryAtelier"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -847,7 +847,7 @@
          "name":"Floor",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
