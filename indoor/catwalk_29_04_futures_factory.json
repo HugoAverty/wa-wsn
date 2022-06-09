@@ -180,13 +180,13 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":50,
                  "id":1298,
-                 "name":"Maze planet",
+                 "name":"Gold miner",
                  "opacity":1,
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.snokido.fr\/jeu\/maze-planet"
+                         "value":"https:\/\/gamesnacks.com\/embed\/games\/goldminertom"
                         }],
                  "type":"tilelayer",
                  "visible":true,
