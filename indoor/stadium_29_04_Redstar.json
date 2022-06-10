@@ -507,7 +507,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"src\/assets\/PDF_PNG\/redstar.png"
+                         "value":"src\/assets\/PDG_PNG\/redstar.png"
                         }],
                  "type":"tilelayer",
                  "visible":true,
