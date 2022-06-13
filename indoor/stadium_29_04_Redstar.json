@@ -506,7 +506,7 @@
                  "properties":[
                         {
                          "name":"openWebsite",
-                         "type":"string",
+                         "type":"file",
                          "value":"src\/assets\/PDF_PNG\/REDSTAR.png"
                         }],
                  "type":"tilelayer",
