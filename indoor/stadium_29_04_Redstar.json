@@ -439,7 +439,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTan",
                          "type":"string",
                          "value":"https:\/\/shop.redstar.fr\/category\/collaborations\/red-star-x-vice\/"
                         }],
@@ -1138,7 +1138,7 @@
          "name":"Structure",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
