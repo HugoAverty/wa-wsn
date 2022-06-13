@@ -507,7 +507,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"src\/assets\/PDF_PNG\/OPENING_SOON.png"
+                         "value":"src\/assets\/PDF_PNG\/REDSTAR.png"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1138,7 +1138,7 @@
          "name":"Structure",
          "opacity":1,
          "type":"group",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
