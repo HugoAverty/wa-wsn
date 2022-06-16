@@ -1,4 +1,4 @@
-/// <reference path="../node_modules/@workadventure/iframe-api-typings/iframe_api.d.ts" />
+/// <reference types="@workadventure/iframe-api-typings" />
 
 WA.onInit().then(() => {
     document.querySelector("#accept")?.addEventListener("click", async (event) => {
@@ -21,3 +21,5 @@ WA.onInit().then(() => {
         }
     });
 });
+
+export {};

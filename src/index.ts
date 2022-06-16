@@ -1,4 +1,4 @@
-/// <reference path="../node_modules/@workadventure/iframe-api-typings/iframe_api.d.ts" />
+/// <reference types="@workadventure/iframe-api-typings" />
 
 import {bootstrapExtra} from "@workadventure/scripting-api-extra";
 
@@ -30,3 +30,5 @@ WA.onInit().then(async () => {
         WA.controls.disablePlayerControls();
     }
 });
+
+export {};
