@@ -251,7 +251,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openUrl",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"public\/PDF_PNG\/DISSIDENT_8.png"
                         }],
