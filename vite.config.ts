@@ -5,12 +5,13 @@ export default defineConfig({
     build: {
         rollupOptions: {
             input: {
+                index: "./index.html",
                 termsOfUse: "./termsOfUse.html",
                 ...getMapsScripts(),
             },
         },
     },
-    plugins: [...getMapsOptimizers()],
+    plugins: [],
     server: {
         host: "localhost",
         headers: {

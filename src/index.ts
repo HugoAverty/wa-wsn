@@ -11,7 +11,9 @@ WA.onInit().then(async () => {
     }
 
     if (!WA.player.state.hasValidTermsOfUse) {
-        const url = "http://localhost:8080/termsOfUse.html";
+        const mapUrl = WA.room.mapURL;
+        const root = mapUrl.substring(0, mapUrl.lastIndexOf("/"));
+        const url = `${root}/termsOfUse.html`;
         const iframe = await WA.ui.website.open({
             url,
             position: {
@@ -29,6 +31,30 @@ WA.onInit().then(async () => {
 
         WA.controls.disablePlayerControls();
     }
+
+    WA.ui.onRemotePlayerClicked.subscribe((remotePlayer) => {
+        remotePlayer.addAction("NFTs", async () => {
+            const url = `https://drpy.drp-ville.com/nfts?uuid=${remotePlayer.uuid}`;
+            const iframe = await WA.ui.website.open({
+                url,
+                position: {
+                    vertical: "middle",
+                    horizontal: "middle"
+                },
+                size: {
+                    height: "70vh",
+                    width: "60vw"
+                },
+                allowApi: true,
+            });
+
+            iframe.url = `${url}&iframeId=${iframe.id}`;
+
+            WA.player.onPlayerMove(() => {
+                iframe.close();
+            });
+        });
+    });
 });
 
 export {};
