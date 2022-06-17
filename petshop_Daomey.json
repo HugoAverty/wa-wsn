@@ -312,9 +312,9 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openTab",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.daomey.com\/"
+                         "value":"PDF_PNG\/DAOMEY.pdf"
                         }],
                  "type":"tilelayer",
                  "visible":true,
