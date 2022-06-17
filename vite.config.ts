@@ -11,7 +11,7 @@ export default defineConfig({
             },
         },
     },
-    plugins: [],
+    plugins: [...getMapsOptimizers()],
     server: {
         host: "localhost",
         headers: {
