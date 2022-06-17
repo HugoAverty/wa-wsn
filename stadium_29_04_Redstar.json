@@ -441,7 +441,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/shop.redstar.fr\/category\/collaborations\/red-star-x-vice\/"
+                         "value":"https:\/\/www.redstar.fr\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -507,7 +507,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"PDF_PNG\/REDSTAR.png"
+                         "value":"PDF_PNG\/REDSTAR.pdf"
                         }],
                  "type":"tilelayer",
                  "visible":true,
