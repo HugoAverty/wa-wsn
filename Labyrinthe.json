@@ -204,7 +204,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#entryLabyrinthe"
+                 "value":"map.json#entryLabyrinthe.json"
                 }],
          "type":"tilelayer",
          "visible":true,
