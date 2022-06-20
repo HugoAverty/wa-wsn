@@ -5,14 +5,14 @@ import {bootstrapExtra} from "@workadventure/scripting-api-extra";
 // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure.
 bootstrapExtra().catch(e => console.error(e));
 
-let currentPopup: any = undefined; 
+let currentPopup: any = undefined;
 
 WA.onInit().then(async () => {
     WA.room.onEnterLayer('POPUP').subscribe(() => {
         currentPopup = WA.ui.openPopup("popup1","Yo" ,[]);
-    }); 
+    });
 
-    WA.room.onLeaveLayer('POPUP').subscribe(closePopUp); 
+    WA.room.onLeaveLayer('POPUP').subscribe(closePopUp);
 
     if (!WA.player.tags.includes("premium_guest")) {
         WA.controls.disablePlayerProximityMeeting();
@@ -21,6 +21,7 @@ WA.onInit().then(async () => {
     if (!WA.player.state.hasValidTermsOfUse) {
         const mapUrl = WA.room.mapURL;
         const root = mapUrl.substring(0, mapUrl.lastIndexOf("/"));
+        console.log(root);
         const url = `${root}/termsOfUse.html`;
         const iframe = await WA.ui.website.open({
             url,
@@ -70,6 +71,6 @@ function closePopUp(){
         currentPopup.close();
         currentPopup = undefined;
     }
-} 
+}
 
 export {};
