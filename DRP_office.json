@@ -250,7 +250,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#entryDRP_office"
+                 "value":"https://play.workadventu.re/@/wsn/drp/drp-ville#entryDRP_office"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#entryKoffee"
+                 "value":"https://play.workadventu.re/@/wsn/drp/drp-ville#entryKoffee"
                 }],
          "type":"tilelayer",
          "visible":true,

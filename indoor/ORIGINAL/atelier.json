@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#entryAtelier"
+                 "value":"https://play.workadventu.re/@/wsn/drp/drp-ville#entryAtelier"
                 }],
          "type":"tilelayer",
          "visible":true,

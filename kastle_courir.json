@@ -183,7 +183,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#entryKastle"
+                 "value":"https://play.workadventu.re/@/wsn/drp/drp-ville#entryKastle"
                 }],
          "type":"tilelayer",
          "visible":true,

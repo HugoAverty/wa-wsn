@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#entryRestaurant2"
+                 "value":"https://play.workadventu.re/@/wsn/drp/drp-ville#entryRestaurant2"
                 }],
          "type":"tilelayer",
          "visible":true,

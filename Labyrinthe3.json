@@ -124,7 +124,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#"
+                 "value":"https://play.workadventu.re/@/wsn/drp/drp-ville#"
                 }],
          "type":"tilelayer",
          "visible":true,

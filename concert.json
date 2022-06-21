@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#entryConcert"
+                 "value":"https://play.workadventu.re/@/wsn/drp/drp-ville#entryConcert"
                 }],
          "type":"tilelayer",
          "visible":true,

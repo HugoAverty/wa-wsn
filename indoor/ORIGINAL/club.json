@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#entryClub"
+                 "value":"https://play.workadventu.re/@/wsn/drp/drp-ville#entryClub"
                 }],
          "type":"tilelayer",
          "visible":true,

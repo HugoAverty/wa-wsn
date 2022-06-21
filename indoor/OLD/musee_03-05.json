@@ -183,7 +183,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#entryMuseum"
+                 "value":"https://play.workadventu.re/@/wsn/drp/drp-ville#entryMuseum"
                 }],
          "type":"tilelayer",
          "visible":true,
